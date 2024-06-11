@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.a9b071f9.css",
-    "main.js": "/static/js/main.27806a05.js",
+    "main.js": "/static/js/main.85a1c417.js",
     "static/js/108.1df154f4.chunk.js": "/static/js/108.1df154f4.chunk.js",
     "static/js/27.2163fce8.chunk.js": "/static/js/27.2163fce8.chunk.js",
     "static/media/nyc.png": "/static/media/nyc.139298242835d62facd4.png",
     "static/media/meal.png": "/static/media/meal.8d0faeffa0fc80c3ca8c.png",
+    "static/media/portfolio.png": "/static/media/portfolio.864a569a76565d107e8f.png",
     "static/media/hd.png": "/static/media/hd.49765c958331f0edefe9.png",
     "static/media/onboarding.png": "/static/media/onboarding.542f8dee519b9dd4585f.png",
-    "static/media/eco.png": "/static/media/eco.57b48b10b29e63b98396.png",
     "static/media/academic.png": "/static/media/academic.83cfb23eeff40e38689e.png",
-    "static/media/portfolio.png": "/static/media/portfolio.17fa97f28f57a3e65511.png",
     "static/media/pc.png": "/static/media/pc.06ad21ea51446dc1062f.png",
     "static/media/MD_MAFUJUL_HASAN.pdf": "/static/media/MD_MAFUJUL_HASAN.10d7c78d8543be1dee23.pdf",
+    "static/media/smartrading.png": "/static/media/smartrading.420c1fdc2ad31c83d65e.png",
     "static/media/Vs.png": "/static/media/Vs.19edc3fbac1c451f289d.png",
     "static/media/pg.png": "/static/media/pg.9f8f5cd98ce5726b002f.png",
     "static/media/CBT&A.pdf": "/static/media/CBT&A.eb3ff4f9f8793625b479.pdf",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.a9b071f9.css",
-    "static/js/main.27806a05.js"
+    "static/js/main.85a1c417.js"
   ]
 }
